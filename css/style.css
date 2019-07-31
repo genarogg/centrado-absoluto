@@ -15,3 +15,11 @@ body{
     
 }
 
+h1{
+    position: block;
+    margin:5% 0%;
+    width: 100%;
+    text-align: center;
+}
+
+
