@@ -39,3 +39,9 @@ h1{
     z-index: 10;
 }
 
+.container:hover{
+    box-shadow: 0 0 10px black,
+                0 0 0,
+                0 15px 15px -10px black;
+}
+
